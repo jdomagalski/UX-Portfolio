@@ -783,6 +783,7 @@ a:hover {
 .hero .hero-subtitle {
   font-size: 1.5rem;
   font-weight: 600;
+  /* match height to proportion of background photo*/
 }
 
 @media (min-width: 768px) {
