@@ -89,7 +89,7 @@ a:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center;
+  background-position: left;
 }
 
 @media (max-width: 1024px) {
@@ -478,7 +478,7 @@ a:hover {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 100px;
 }
 
 #header.header-scrolled {
@@ -750,7 +750,7 @@ a:hover {
   height: 100vh;
   position: relative;
   color: #fff;
-  background-image: url(assets\img\Domagalski_headshot.jpg);
+  background-image: url(assets\img\Hero_img.jpg);
 }
 
 .hero .hero-content {
